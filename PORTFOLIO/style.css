@@ -11,7 +11,6 @@ body{
     line-height:1.6;
 }
 
-/* Header */
 header{
     background:linear-gradient(90deg,#1D8CF8,#8E44FF);
     color:white;
@@ -29,7 +28,6 @@ header p{
     font-size:20px;
 }
 
-/* Sections */
 section{
     width:85%;
     margin:30px auto;
@@ -39,14 +37,13 @@ section{
     box-shadow:0 8px 20px rgba(0,0,0,0.12);
 }
 
-/* Headings */
+
 h2{
     color:#2563EB;
     margin-bottom:20px;
     font-size:30px;
 }
 
-/* About Image */
 #about img{
     width:180px;
     height:180px;
@@ -57,7 +54,7 @@ h2{
     box-shadow:0 0 20px rgba(79,142,247,.4);
 }
 
-/* Skills */
+
 ul{
     list-style:square;
     margin-left:30px;
@@ -68,7 +65,6 @@ ul li{
     font-size:25px;
 }
 
-/* Projects */
 .project{
     margin-bottom:35px;
 }
@@ -80,7 +76,6 @@ ul li{
     box-shadow:0 5px 15px rgba(0,0,0,.2);
 }
 
-/* Links */
 a{
     color:#2563EB;
     text-decoration:none;
@@ -92,7 +87,6 @@ a:hover{
     text-decoration:underline;
 }
 
-/* Buttons */
 button{
     background:linear-gradient(90deg,#1D8CF8,#8E44FF);
     color:white;
@@ -108,7 +102,6 @@ button:hover{
     box-shadow:0 5px 15px rgba(0,0,0,.2);
 }
 
-/* Footer */
 footer{
     text-align:center;
     background:#1E293B;
@@ -117,7 +110,6 @@ footer{
     margin-top:40px;
 }
 
-/* Smooth Animation */
 section:hover{
     transform:translateY(-5px);
     transition:.3s;
